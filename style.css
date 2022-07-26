@@ -156,6 +156,10 @@ body {
 		display: block;
 		margin-bottom: 20px;
 	}
+	.gallery-videos iframe{
+width: 50%;
+height: 50%;
+	}
 }
 
 
